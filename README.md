@@ -58,4 +58,4 @@ A collaborative robotic system built from repurposed components. I programmed mo
 
 Based in **Baltimore, Maryland**. Interested in software engineering, cloud systems, and opportunities to build useful things with a team.
 
-[Get in touch](mailto:jt619514@gmail.com)
+[Get in touch]https://james1231234.github.io/joseph-portfolio-site/
